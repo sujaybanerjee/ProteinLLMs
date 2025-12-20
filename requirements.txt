@@ -1,0 +1,7 @@
+torch>=2.5.1
+numpy>=1.26.4
+fair-esm==2.0.0
+biopython==1.84
+matplotlib==3.9.2
+scikit-learn==1.5.2
+pandas
